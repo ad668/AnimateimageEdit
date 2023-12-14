@@ -37,4 +37,4 @@ It is made in Python using OpenCV. Libraries used in the application include Pil
 1. Green
 1. Blue
 
-**Note:** If you use the program on your respective computer, kindly delete the venv folder and use your interpreter.
+
